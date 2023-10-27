@@ -1,11 +1,9 @@
 <h1 align="center">Hey! I'm Eirik 👋</h1>
-<h3 align="center">I'm a self-thaught Software Developer from Norway.</h3>
+<h3 align="center">I'm a self-thaught Full-Stack Developer from Norway.</h3>
 
-- 🔭 Im currently unemployed doing hobby projects
 - 🌱 Im a big fan of anything computer related and i love learning new things be it software, hardware etc.
-- 💬 Ask me about anything and if i don't know the answer i will definetly research it
-- 📫 How to reach me: eir-tep@hotmail.no
-- ⚡ Fun fact: I'm into esoteric languages
+- 📫 How to reach me: eirik@dalseggteppen.no
+- 🌐 My webpage: [eirik.dalseggteppen.no](https://eirik.dalseggteppen.no)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
