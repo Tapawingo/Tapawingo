@@ -1,5 +1,6 @@
 <h1 align="center">Hey! I'm Eirik 👋</h1>
-<h3 align="center">I'm a self-thaught Full-Stack Developer from Norway.</h3>
+<h3 align="center">I'm a self-educated Full-Stack Developer from Norway.</h3>
+<p align="center"><i>Currently studying Software and Game Development at the Norwegian University of Science and Technology.</i></p>
 
 - 🌱 Im a big fan of anything computer related and i love learning new things be it software, hardware etc.
 - 📫 How to reach me: eirik@dalseggteppen.no
@@ -25,7 +26,7 @@
   <a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://www.nasm.us/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9bea1dbb81281435ea70453ecf7b9961bb0722c049e1ccac35ae2b4535add4cc/687474703a2f2f7777772e62797465616e616c797369732e636f6d2e62722f6173736574732f696d616765732f32356138356439653530353734333064383232373361336337356537333031342e706e67" alt="Assembly" width="40" height="40"/> </a>
+  <a href="https://www.nasm.us/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg" alt="Assembly" width="40" height="40"/> </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/> </a>
   <a href="https://discord.js.org/#/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/js_discord/js_discord-icon.svg" alt="Discord.js" width="40" height="40"/> </a>
