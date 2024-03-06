@@ -1,7 +1,7 @@
 <h1 align="center">Hey! Nice to see you.</h1>
 <p align="center">
     Welcome to my profile!<br/>
-    I'm Eirik, Fullstack developer from Norway.<br/>
+    I'm Eirik, a full stack developer from Norway.<br/>
     <i>Currently studying Software and Game Development at the Norwegian University of Science and Technology.</i>
 </p>
 
