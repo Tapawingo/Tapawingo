@@ -1,29 +1,45 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070A12"/>
-      <stop offset="1" stop-color="#0B1020"/>
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="1" stop-color="#0B0B0B"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7C3AED"/>
-      <stop offset="1" stop-color="#22D3EE"/>
-    </linearGradient>
+
     <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse">
-      <path d="M0 0H6" stroke="white" stroke-opacity="0.05"/>
+      <rect width="6" height="6" fill="transparent"/>
+      <rect y="0" width="6" height="1" fill="#FFFFFF" opacity="0.05"/>
+    </pattern>
+
+    <pattern id="dither" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="transparent"/>
+      <rect x="1" y="1" width="1" height="1" fill="#fff" opacity="0.18"/>
+      <rect x="5" y="2" width="1" height="1" fill="#fff" opacity="0.18"/>
+      <rect x="3" y="4" width="1" height="1" fill="#fff" opacity="0.18"/>
+      <rect x="7" y="6" width="1" height="1" fill="#fff" opacity="0.18"/>
+      <rect x="2" y="7" width="1" height="1" fill="#fff" opacity="0.18"/>
     </pattern>
   </defs>
 
   <rect width="1200" height="320" rx="22" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="22" fill="url(#scan)" opacity="0.45"/>
-  <circle cx="1060" cy="60" r="170" fill="url(#accent)" opacity="0.12"/>
+  <rect width="1200" height="320" rx="22" fill="url(#scan)" opacity="0.65"/>
 
-  <text x="56" y="56"
-        fill="#B8C0FF" font-size="16"
+  <!-- dither “glow blobs” -->
+  <circle cx="1040" cy="70" r="170" fill="url(#dither)" opacity="0.95"/>
+  <circle cx="210" cy="260" r="220" fill="url(#dither)" opacity="0.85"/>
+
+  <rect x="44" y="38" width="1112" height="244" rx="18"
+        fill="rgba(0,0,0,0.35)" stroke="rgba(255,255,255,0.18)"/>
+
+  <text x="72" y="74"
+        fill="#EDEDED" font-size="16"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
     tapawingo@status:~$ cat panel.txt
   </text>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
-    <text x="56" y="92" fill="#A78BFA" font-size="18">STATUS PANEL  //  2026-01-01 21:52 UTC</text><text x="56" y="114" fill="#E5E7EB" font-size="18">Latest push: Tapawingo  (2026-01-01)</text><text x="56" y="136" fill="#9CA3AF" font-size="18">Active repos:</text><text x="56" y="158" fill="#9CA3AF" font-size="18"> - Tapawingo              2026-01-01   </text><text x="56" y="180" fill="#9CA3AF" font-size="18"> - trenchkit              2025-12-26   C++</text><text x="56" y="202" fill="#9CA3AF" font-size="18"> - retro-plasma           2025-12-09   TypeScript</text><text x="56" y="224" fill="#9CA3AF" font-size="18"> - DLImageExtension       2025-08-22   JavaScript</text><text x="56" y="246" fill="#9CA3AF" font-size="18"> - jsok-bot               2025-07-29   TypeScript</text><text x="56" y="268" fill="#9CA3AF" font-size="18"> - cc-radio               2024-10-18   TypeScript</text>
+    <text x="72" y="104" fill="#FFFFFF" font-size="18">STATUS  //  2026-01-01 22:29 UTC</text><text x="72" y="126" fill="#FFFFFF" font-size="18">latest push: Tapawingo (2026-01-01)</text><text x="72" y="159" fill="#D0D0D0" font-size="18">recently active:</text><text x="72" y="181" fill="#D0D0D0" font-size="18"> - Tapawingo              2026-01-01   </text><text x="72" y="203" fill="#D0D0D0" font-size="18"> - trenchkit              2025-12-26   C++</text><text x="72" y="225" fill="#D0D0D0" font-size="18"> - retro-plasma           2025-12-09   TypeScript</text><text x="72" y="247" fill="#D0D0D0" font-size="18"> - DLImageExtension       2025-08-22   JavaScript</text><text x="72" y="269" fill="#D0D0D0" font-size="18"> - jsok-bot               2025-07-29   TypeScript</text><text x="72" y="291" fill="#D0D0D0" font-size="18"> - cc-radio               2024-10-18   TypeScript</text>
   </g>
+
+  <!-- dither underline -->
+  <rect x="72" y="272" width="520" height="10" fill="url(#dither)" opacity="0.9"/>
 </svg>

@@ -1,0 +1,10 @@
+{
+    "user": "Tapawingo",
+    "cards": [
+      { "repo": "trenchkit", "subtitle": "Foxhole mod manager", "href": "https://github.com/Tapawingo/trenchkit" },
+      { "repo": "retro-plasma", "subtitle": "dithered plasma bg", "href": "https://github.com/Tapawingo/retro-plasma" },
+      { "repo": "DLImageExtension", "subtitle": "bulk image downloader", "href": "https://github.com/Tapawingo/DLImageExtension" },
+      { "repo": "another-donut.c", "subtitle": "spinning donut", "href": "https://github.com/Tapawingo/another-donut.c" }
+    ]
+  }
+  
