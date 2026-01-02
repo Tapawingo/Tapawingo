@@ -1,0 +1,34 @@
+{
+  "user": "Tapawingo",
+  "cards": [
+    {
+      "repo": "FreeTakServer",
+      "subtitle": "Situational Awareness Server compatible with TAK clients",
+      "logo": "https://user-images.githubusercontent.com/60719165/226138056-a2b1076c-fd4c-4488-b330-55e57f9ecc78.png",
+      "href": "https://github.com/FreeTAKTeam/FreeTakServer"
+    },
+    {
+      "repo": "FormLense",
+      "subtitle": "Intelligent Form Processing System",
+      "logo": "https://github.com/Tapawingo/FormLense/blob/main/extras/logo/logo_transparent.png?raw=true",
+      "href": "https://github.com/Tapawingo/FormLense"
+    },
+    {
+      "repo": "TrenchKit",
+      "subtitle": "A small mod manager for Foxhole",
+      "logo": "https://github.com/Tapawingo/trenchkit/blob/main/extras/logo/logo_toolbox_transparent.png?raw=true",
+      "href": "https://github.com/Tapawingo/trenchkit"
+    },
+    {
+      "repo": "DlImageExtension",
+      "subtitle": "Chrome Extension for bulk downloading images from the current webpage",
+      "logo": "https://github.com/Tapawingo/DLImageExtension/blob/main/extras/assets/icon/DLImageExtension_icon.png?raw=true",
+      "href": "https://github.com/Tapawingo/DLImageExtension"
+    },
+    {
+      "repo": "RetroPlasma",
+      "subtitle": "Dithered plasma background written in pure typescript",
+      "href": "https://github.com/Tapawingo/retro-plasma"
+    }
+  ]
+}
