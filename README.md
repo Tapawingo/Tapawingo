@@ -21,7 +21,6 @@
   <td width="50%">
     <h2>Featured Projects</h2>  
     <a href="https://github.com/Tapawingo/trenchkit"><img src="./assets/cards/trenchkit.png" width="100%" alt="trenchkit card" /></a>
-    <a href="https://github.com/Tapawingo/retro-plasma"><img src="./assets/cards/retro-plasma.png" width="100%" alt="retro-plasma card" /></a>
     <a href="https://github.com/Tapawingo/DLImageExtension"><img src="./assets/cards/DLImageExtension.png" width="100%" alt="DLImageExtension card" /></a>
     <a href="https://github.com/Tapawingo/another-donut.c"><img src="./assets/cards/another-donut.c.png" width="100%" alt="another-donut.c card" /></a>
   </td>
