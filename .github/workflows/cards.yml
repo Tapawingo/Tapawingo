@@ -25,7 +25,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install pillow requests
+      - run: pip install requests
 
       - run: python scripts/make_cards.py
         env:
