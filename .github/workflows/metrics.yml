@@ -13,8 +13,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
           user: Tapawingo
           template: classic
           base: header, activity, community, repositories, metadata
+          config_padding: 0
           config_timezone: Europe/Oslo
