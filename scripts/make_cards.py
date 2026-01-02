@@ -165,7 +165,7 @@ def render_card_svg(
     sub_y = 102 + 20
     desc_y1 = 102
     desc_y2 = 120
-    meta_y = 144
+    meta_y = 154
 
     desc_lines = wrap(description, max_chars=74, max_lines=2)
     sub_line = (subtitle or "").strip()
@@ -229,7 +229,7 @@ def render_card_svg(
       --border: #d0d7de;
       --text: #0366d6;
       --title: #0366d6;
-      --muted: #57606a;
+      --muted: #727272;
       --subtle: #f6f8fa;
       --ring: #afb8c1;
       --mark: #57606a;
@@ -240,7 +240,7 @@ def render_card_svg(
         --border: #30363d;
         --text: #0366d6;
         --title: #0366d6;
-        --muted: #8b949e;
+        --muted: #727272;
         --subtle: #161b22;
         --ring: #30363d;
         --mark: #8b949e;
@@ -249,8 +249,8 @@ def render_card_svg(
     .card {{ fill: var(--bg); stroke: var(--border); stroke-width: 2; }}
     .title {{ fill: var(--title); font: 700 42px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }}
     .subtitle {{ fill: var(--muted); font: 400 32px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }}
-    .desc {{ fill: var(--muted); font: 400 31px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }}
-    .meta {{ fill: var(--muted); font: 400 30px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }}
+    .desc {{ fill: transparent; font: 400 31px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }}
+    .meta {{ fill: var(--muted); font: 400 16px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }}
     .logoBg {{ fill: transparent; }}
     .logoStroke {{ fill: none; stroke: transparent; }}
     .logoRing {{ fill: none; stroke: var(--ring); stroke-width: 2; }}

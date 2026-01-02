@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1100" height="170"
-     viewBox="0 0 1100 170" role="img" aria-label="FormLense">
+     viewBox="0 0 1100 170" role="img" aria-label="retro-plasma">
   <style>
     :root {
       --bg: transparent;
@@ -34,7 +34,7 @@
     .logoMark { fill: var(--mark); opacity: 0.9; }
   </style>
 
-  <a href="https://github.com/Tapawingo/FormLense" target="_blank" rel="noreferrer">
+  <a href="https://github.com/Tapawingo/retro-plasma" target="_blank" rel="noreferrer">
   <rect x="1" y="1" width="1098" height="168" rx="0" class="card"/>
   
   <g>
@@ -44,10 +44,10 @@
     <rect x="18" y="37" width="96" height="96" rx="2" class="logoStroke"/>
   </g>
 
-  <text x="132" y="76" class="title">FormLense</text>
-  <text x="132" y="122" class="subtitle">Intelligent Form Processing System</text>
+  <text x="132" y="76" class="title">retro-plasma</text>
+  <text x="132" y="122" class="subtitle">Dithered plasma background written in pure typescript</text>
+  <text x="132" y="102" class="desc">Dithered plasma background written in pure typescript.</text>
   
-  
-  
+  <text x="132" y="154" class="meta">TypeScript · Updated 2025-12-09</text>
   </a>
 </svg>

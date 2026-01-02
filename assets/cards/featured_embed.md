@@ -6,6 +6,10 @@
 </tr>
 <tr>
   <td width="50%"><a href="https://github.com/Tapawingo/trenchkit"><img src="./assets/cards/Tapawingo__trenchkit.svg" width="100%" alt="Tapawingo/trenchkit card" /></a></td>
+  <td width="50%"><a href="https://github.com/Tapawingo/DLImageExtension"><img src="./assets/cards/Tapawingo__DLImageExtension.svg" width="100%" alt="Tapawingo/DLImageExtension card" /></a></td>
+</tr>
+<tr>
+  <td width="50%"><a href="https://github.com/Tapawingo/retro-plasma"><img src="./assets/cards/Tapawingo__retro-plasma.svg" width="100%" alt="Tapawingo/retro-plasma card" /></a></td>
   <td width="50%"></td>
 </tr>
 </table>

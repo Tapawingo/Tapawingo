@@ -6,7 +6,7 @@
       --border: #d0d7de;
       --text: #0366d6;
       --title: #0366d6;
-      --muted: #57606a;
+      --muted: #727272;
       --subtle: #f6f8fa;
       --ring: #afb8c1;
       --mark: #57606a;
@@ -17,7 +17,7 @@
         --border: #30363d;
         --text: #0366d6;
         --title: #0366d6;
-        --muted: #8b949e;
+        --muted: #727272;
         --subtle: #161b22;
         --ring: #30363d;
         --mark: #8b949e;
@@ -26,8 +26,8 @@
     .card { fill: var(--bg); stroke: var(--border); stroke-width: 2; }
     .title { fill: var(--title); font: 700 42px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
     .subtitle { fill: var(--muted); font: 400 32px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
-    .desc { fill: var(--muted); font: 400 31px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
-    .meta { fill: var(--muted); font: 400 30px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
+    .desc { fill: transparent; font: 400 31px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
+    .meta { fill: var(--muted); font: 400 16px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; }
     .logoBg { fill: transparent; }
     .logoStroke { fill: none; stroke: transparent; }
     .logoRing { fill: none; stroke: var(--ring); stroke-width: 2; }
@@ -49,8 +49,8 @@
 
   <text x="132" y="76" class="title">FreeTakServer</text>
   <text x="132" y="122" class="subtitle">Situational Awareness Server compatible with TAK clients</text>
+  <text x="132" y="102" class="desc">Situational Awareness Server compatible with TAK clients</text>
   
-  
-  
+  <text x="132" y="154" class="meta">Python · ★ 861 · ⑂ 192 · Updated 2024-10-29</text>
   </a>
 </svg>

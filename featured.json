@@ -18,6 +18,17 @@
       "subtitle": "A small mod manager for Foxhole",
       "logo": "https://github.com/Tapawingo/trenchkit/blob/main/extras/logo/logo_toolbox_transparent.png?raw=true",
       "href": "https://github.com/Tapawingo/trenchkit"
+    },
+    {
+      "repo": "DlImageExtension",
+      "subtitle": "Chrome Extension for bulk downloading images from the current webpage",
+      "logo": "https://github.com/Tapawingo/DLImageExtension/blob/main/extras/assets/icon/DLImageExtension_icon.png?raw=true",
+      "href": "https://github.com/Tapawingo/DLImageExtension"
+    },
+    {
+      "repo": "RetroPlasma",
+      "subtitle": "Dithered plasma background written in pure typescript",
+      "href": "https://github.com/Tapawingo/retro-plasma"
     }
   ]
 }
