@@ -13,12 +13,12 @@
   C/C++ · TypeScript · Vulkan/OpenGL · Vue/Node · Linux
 </p>
 
-<table>
+<table width="100%">
 <tr>
-  <td>
+  <td width="50%">
     <img src="github-metrics.svg" alt="Lowlighter Metrics" width="100%" />
   </td>
-  <td>
+  <td width="50%">
     <h2>Featured Projects</h2>  
     <a href="https://github.com/Tapawingo/trenchkit"><img src="./assets/cards/trenchkit.png" width="100%" alt="trenchkit card" /></a>
     <a href="https://github.com/Tapawingo/retro-plasma"><img src="./assets/cards/retro-plasma.png" width="100%" alt="retro-plasma card" /></a>
