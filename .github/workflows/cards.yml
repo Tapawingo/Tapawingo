@@ -8,6 +8,8 @@ on:
     paths:
       - "featured.json"
       - "scripts/make_cards.py"
+      - "assets/fonts/**"
+      - "assets/logos/**"
       - ".github/workflows/cards.yml"
 
 permissions:
@@ -23,9 +25,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install requests
+      - run: pip install pillow requests
 
-      - run: python scripts/make_cards.py
+      - run: python scripts/make_cards_pixel.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -34,7 +36,7 @@ jobs:
           if [[ -n "$(git status --porcelain)" ]]; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add assets/cards/*.svg assets/cards/featured_embed.md
+            git add assets/cards/*.png assets/cards/featured_embed.md
             git commit -m "chore(readme): update featured cards"
             git push
           fi
