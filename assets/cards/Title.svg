@@ -17,7 +17,7 @@
     .title { fill: var(--title); font: 700 50px -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji; }
   </style>
 
-  <line x1="1" y1="85" x2="1098" y2="85" class="line" />
+  <!-- <line x1="1" y1="85" x2="1098" y2="85" class="line" /> -->
 
   <text x="0" y="70" class="title">Featured Projects</text>
 </svg>
