@@ -27,7 +27,7 @@ jobs:
 
       - run: pip install pillow requests
 
-      - run: python scripts/make_cards_pixel.py
+      - run: python scripts/make_cards.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
