@@ -17,7 +17,7 @@
     <img src="./assets/cards/Title.svg" width="100%" alt="FreeTakServer" />
     <a href="https://github.com/FreeTakTeam/FreeTakServer"><img src="./assets/cards/FreeTAKTeam__FreeTakServer.svg" width="100%" alt="FreeTakServer" /></a>
     <a href="https://github.com/Tapawingo/FormLense"><img src="./assets/cards/Tapawingo__FormLense.svg" width="100%" alt="FormLense" /></a>
-    <a href="https://github.com/Tapawingo/trenchkit"><img src="./assets/cards/Tapawingo__trenchkit.svg" width="100%" alt="TrenchKit" /></a>
+    <a href="https://github.com/Tapawingo/trenchkit"><img src="./assets/cards/Tapawingo__TrenchKit.svg" width="100%" alt="TrenchKit" /></a>
     <a href="https://github.com/Tapawingo/DlImageExtension"><img src="./assets/cards/Tapawingo__DLImageExtension.svg" width="100%" alt="DLImageExtension" /></a>
   </td>
 </tr>
