@@ -5,7 +5,7 @@
   <td width="50%"><a href="https://github.com/Tapawingo/FormLense"><img src="./assets/cards/Tapawingo__FormLense.svg" width="100%" alt="Tapawingo/FormLense card" /></a></td>
 </tr>
 <tr>
-  <td width="50%"><a href="https://github.com/Tapawingo/trenchkit"><img src="./assets/cards/Tapawingo__trenchkit.svg" width="100%" alt="Tapawingo/trenchkit card" /></a></td>
+  <td width="50%"><a href="https://github.com/Tapawingo/TrenchKit"><img src="./assets/cards/Tapawingo__TrenchKit.svg" width="100%" alt="Tapawingo/TrenchKit card" /></a></td>
   <td width="50%"><a href="https://github.com/Tapawingo/DLImageExtension"><img src="./assets/cards/Tapawingo__DLImageExtension.svg" width="100%" alt="Tapawingo/DLImageExtension card" /></a></td>
 </tr>
 </table>
