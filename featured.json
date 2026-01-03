@@ -24,11 +24,6 @@
       "subtitle": "Chrome Extension for bulk downloading images from the current webpage",
       "logo": "https://github.com/Tapawingo/DLImageExtension/blob/main/extras/assets/icon/DLImageExtension_icon.png?raw=true",
       "href": "https://github.com/Tapawingo/DLImageExtension"
-    },
-    {
-      "repo": "RetroPlasma",
-      "subtitle": "Dithered plasma background written in pure typescript",
-      "href": "https://github.com/Tapawingo/retro-plasma"
     }
   ]
 }

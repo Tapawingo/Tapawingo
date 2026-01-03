@@ -19,7 +19,6 @@
     <a href="https://github.com/Tapawingo/FormLense"><img src="./assets/cards/Tapawingo__FormLense.svg" width="100%" alt="FormLense" /></a>
     <a href="https://github.com/Tapawingo/trenchkit"><img src="./assets/cards/Tapawingo__trenchkit.svg" width="100%" alt="TrenchKit" /></a>
     <a href="https://github.com/Tapawingo/DlImageExtension"><img src="./assets/cards/Tapawingo__DLImageExtension.svg" width="100%" alt="DLImageExtension" /></a>
-    <a href="https://github.com/Tapawingo/retro-plasma"><img src="./assets/cards/Tapawingo__retro-plasma.svg" width="100%" alt="RetroPlasma" /></a>
   </td>
 </tr>
 </table>
